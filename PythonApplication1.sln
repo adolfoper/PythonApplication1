@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{45A6C58B-7534-4642-9BB6-9EBFE45E4C11}"
-EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "FlaskApp", "FlaskApp\FlaskApp.esproj", "{C92AA2AE-4D26-465F-A603-13C6EFE51E1C}"
 EndProject
 Global
@@ -13,8 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{45A6C58B-7534-4642-9BB6-9EBFE45E4C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45A6C58B-7534-4642-9BB6-9EBFE45E4C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C92AA2AE-4D26-465F-A603-13C6EFE51E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C92AA2AE-4D26-465F-A603-13C6EFE51E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C92AA2AE-4D26-465F-A603-13C6EFE51E1C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
